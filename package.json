@@ -1,0 +1,20 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "PWA based Budget Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "NA",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SparshPatwa/budget-tracker.git"
+  },
+  "author": "Sparsh Patwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SparshPatwa/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/SparshPatwa/budget-tracker#readme"
+}
