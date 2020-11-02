@@ -11,7 +11,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployment](#deployment)
-- [Screenshot](#screenshot)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -23,10 +22,8 @@
 💻 npm start
 
 ## Deployment
-🛳 [Application Link](https://budgetrackr.herokuapp.com/)
-
-## Screenshot  
-🎥 [!Budget Tracker Home](./public/assets/homepage.png)
+🛳 [Application Link](https://budgetrackr.herokuapp.com/)  
+![Budget Tracker Home](./public/assets/homepage.png "Homepage")  
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
