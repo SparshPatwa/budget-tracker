@@ -11,7 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployment](#deployment)
-- [Demonstration](#demonstration)
+- [Screenshot](#screenshot)
 - [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
@@ -25,8 +25,8 @@
 ## Deployment
 🛳 [Application Link](undefined)
 
-## Demonstration  
-🎥 [Video Walkthrough](./public/assets/video-demo.mov)
+## Screenshot  
+🎥 [!Budget Tracker Home](./public/assets/homepage.png)
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
